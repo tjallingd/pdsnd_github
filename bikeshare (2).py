@@ -1,3 +1,5 @@
+# This app is written to filter and view data from a company called bikeshare. Enjoy.
+
 import time
 import pandas as pd
 import numpy as np
